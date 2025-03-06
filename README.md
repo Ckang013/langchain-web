@@ -1,7 +1,8 @@
 # langchain-web
 一個LLM和LangChain的練習應用平台
 
-- 2025.03.06 部署到 share.streamlit.io 平台上，但有遇到一些問題，待排除，
+- 2025.03.06 本地端的 Pycharm 環境上執行都沒有問題
+- 但部署到 share.streamlit.io 平台上，但有遇到部分套件無法安裝問題，待排除
 - 連結 https://langchain-web-e4nwrzjzzs7je58ygeavym.streamlit.app/
 
 #### 文本摘要
