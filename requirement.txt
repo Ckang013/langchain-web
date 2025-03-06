@@ -48,3 +48,5 @@ narwhals==1.29.0
 numpy==2.2.3
 openai==1.65.2
 orjson==3.10.15
+-r requirement_1.txt
+-r requirement_2.txt
